@@ -1,8 +1,8 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Roboto', sans-serif;  
   font-size: 16px;
-  color: #222;
-  background-color: #fff;
+  color: #fff;
+  background-color: #1565c0;
   text-align: center;
   line-height: 1.4em;
 }
@@ -23,7 +23,7 @@ h3 {
 }
 
 a {
-  color: #2574a9;
+  color: #CDDC39;
 }
 
 form {
